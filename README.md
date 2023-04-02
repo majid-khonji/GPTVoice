@@ -38,6 +38,19 @@ Before running GPTVoice, you will need to obtain two API keys: one for the Googl
 
 ## Usage
 
-To run GPTVoice, simply execute the `main.py` script using Python:
+To run GPTVoice, simply execute the `main.py` script using Python
+Once the script is running, speak your command into your microphone. GPTVoice will convert your speech to text using the Google Cloud Speech-to-Text API, and pass the text to the GPT model for further processing.
+
+## Contributing
+
+Contributions to GPTVoice are welcome! If you find a bug or have an idea for a new feature, please create an issue on the GitHub repository. If you'd like to contribute code, please fork the repository and submit a pull request.
+
+## License
+
+GPTVoice is licensed under the MIT License. See `LICENSE` for more information.
+
+## Credits
+
+The GPT language model is developed by OpenAI.
 
 
